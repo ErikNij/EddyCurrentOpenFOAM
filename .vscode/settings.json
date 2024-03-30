@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "emFoam2.C": "cpp",
+        "MyEmFoam3.C": "cpp"
+    }
+}
