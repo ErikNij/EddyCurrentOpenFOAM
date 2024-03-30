@@ -1,0 +1,2 @@
+# EddyCurrentOpenFOAM
+yes
